@@ -1,0 +1,36 @@
+*{
+	background-color: #B587E2;
+}
+
+h1 {
+	color: #5C1F00;
+	font-family: Verdana;
+	text-indent: 
+}
+
+.header {
+	height: 50px;
+	width: 600px;
+	border: 3px solid #5C1F00;
+	border-radius: 5px;
+	margin-top: 40px;
+}
+
+.left{
+	color: #5C1F00;
+	font-family: Verdana;
+	height: 100px;
+	width: 300px;
+	border: 3px solid #5C1F00;
+	border-radius: 5px;
+	float: left;
+	/* clear: right; */ 	
+}
+
+.center {
+	width: 900px;
+	height:300px;
+	border: 3px solid #5C1F00;
+	border-radius: 5px;
+	margin: auto;
+}
